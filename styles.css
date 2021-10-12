@@ -1,0 +1,217 @@
+body{
+    color:#40514e;
+    margin:auto;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    width: 100%;
+    
+}
+h1{
+    color: #66BFBF;
+    font-family:'Sacramento', cursive; 
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 150px auto 0 auto;
+    /*margin: 0 auto 0 auto;*/
+}
+
+.bif{
+    font-size: 30px;
+    font-weight: normal;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif; 
+    font-size:2.5rem;
+    padding-bottom: 10px;
+}
+h3{
+    color:  #11999E;
+    font-family:'Montserrat', sans-serif;
+}
+
+p{
+    line-height: 2;
+}
+/*.container{
+    /*margin-left: 0px;
+    margin-right: 0px; */
+    /*border: solid 10px;*/
+    /*padding: 20px;
+    height: 300px; 
+    width: 300px;
+    background-color: #f5dd0b;
+    /*position: relative;
+    left:200px;
+    display: inline-block; 
+
+
+.Top{
+    /*margin-left: 0px;
+    margin-right: 0px; */
+    /*border: solid 10px;*/
+    /*padding: 20px;
+    height: 200px; 
+    width: 200px;
+    background-color: #05a789;
+    /*position: relative;
+    left:200px;
+    position:absolute;
+    top: ;
+    display: inline-block; 
+}
+
+.Middle{
+    /*border: solid 10px;
+    margin-left: 260px;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+    background-color:red;
+    /*position: relative;
+    right:200px;
+    position:absolute;
+    left: 200px;
+    top: 200px;
+    display: inline-block;
+}
+
+.bottom{
+    /*border: solid 10px;
+    margin-left: 500px;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    /*position: relative;
+    right:10px;
+    position:absolute;
+    left:400px ;
+    top:400px;
+    display: inline-block;
+}*/
+.fro{
+    text-decoration: underline;
+    color: chocolate;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.top-container{
+    background-color: #c2f0f7;
+    position:relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    margin: 100px 0 100px;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left:200px;
+    top:300px;  
+}
+
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top:150px;
+}
+
+a{
+    color:  #11999E;
+}
+.skill-row{
+    /*width: 50%;*/
+    margin: 100px auto 100px;
+    text-align: left;
+    width: 50%;
+}
+
+.photo{
+    float:left;
+    margin-right: 30px;
+}
+
+.dev{
+    float: right;
+    margin-left: 30px;
+}
+
+/*.photo-des{
+    clear: left;
+}
+
+.web-des{
+    clear: right;
+}*/
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    margin: 100px auto;
+    width: 5%; 
+}
+
+.con{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    background: #15b6c2;
+    background-image: -webkit-linear-gradient(top, #15b6c2, #1cc4b0);
+    background-image: -moz-linear-gradient(top, #15b6c2, #1cc4b0);
+    background-image: -ms-linear-gradient(top, #15b6c2, #1cc4b0);
+    background-image: -o-linear-gradient(top, #15b6c2, #1cc4b0);
+    background-image: linear-gradient(to bottom, #15b6c2, #1cc4b0);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 6px 20px 6px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cfce2;
+    background-image: -webkit-linear-gradient(top, #3cfce2, #34d9d1);
+    background-image: -moz-linear-gradient(top, #3cfce2, #34d9d1);
+    background-image: -ms-linear-gradient(top, #3cfce2, #34d9d1);
+    background-image: -o-linear-gradient(top, #3cfce2, #34d9d1);
+    background-image: linear-gradient(to bottom, #3cfce2, #34d9d1);
+    text-decoration: none;
+  }
+  
+
+.bottom-container{
+    background-color: rgb(8, 165, 177);
+    padding: 50px 0 20px;
+}
+
+a{
+    color: rgb(2, 46, 48);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#eaf6f6;
+}
+
+.glow{
+    font-size: 50%;
+    color: white;
+    padding: 10px 0;
+}
